@@ -1,0 +1,9 @@
+body, #menu{
+  background-color: lightgreen;
+}
+.cartStyle{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: inherit;
+}
